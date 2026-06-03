@@ -22,7 +22,7 @@ The goal of this project is to build an intelligent chatbot capable of generatin
 1. Clone repository  
 2. Install dependencies  
 3. Add `.env` file  
-4. Run `python app.py`
+4. Run `python chatbot.py`
 
 ## 📌 Conclusion
 This project demonstrates real-world integration of LLMs using LangChain and OpenAI API.
